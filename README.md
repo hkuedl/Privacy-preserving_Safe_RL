@@ -13,6 +13,7 @@ Authors: Haoyuan Deng, Ershun Du, and Yi Wang.
 
 
 ### Initial packages include
+  - python = 3.8.18
   - numpy
   - pandas
   - scikit-learn
