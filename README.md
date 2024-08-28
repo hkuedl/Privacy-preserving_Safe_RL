@@ -1,4 +1,7 @@
 # Privacy-preserving Safe Reinforcement Learning for the Dispatch of a Local Energy Community
+
+_Propose a privacy-preserving safe soft actor-critic (PSSAC) framework for the coordinated dispatch of an LEC, which incorporates encryption modules and safety modules._
+
 Code for paper "Privacy-Preserving Safe Reinforcement Learning for the Dispatch of a Local Energy Community".
 
 Authors: Haoyuan Deng, Ershun Du, and Yi Wang.
